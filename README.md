@@ -1,6 +1,6 @@
 # Ay Yıldız 26 — Support & Privacy
 
-Öffentliche GitHub-Pages-Website für die Fan-App [Ay Yıldız 26](https://github.com/jaseen67/ayyildiz26).
+Öffentliche GitHub-Pages-Website für die Fan-App Ay Yıldız 26.
 
 **Live:** https://jaseen67.github.io/ayyildiz26-official/
 
